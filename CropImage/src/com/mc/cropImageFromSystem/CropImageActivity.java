@@ -1,4 +1,4 @@
-package com.mc.cropImage;
+package com.mc.cropImageFromSystem;
 
 import java.io.File;
 

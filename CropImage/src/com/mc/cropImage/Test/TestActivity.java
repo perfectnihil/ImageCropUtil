@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.mc.cropImage.CropImageActivity;
+import com.mc.cropImageFromSystem.CropImageActivity;
 import com.pnl.cropimage.R;
 
 public class TestActivity extends CropImageActivity{

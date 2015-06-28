@@ -21,7 +21,7 @@
         android:theme="@style/AppTheme" >
         <activity 
             android:screenOrientation="portrait"
-            android:name="com.mc.cropImage.Test.TestActivity"
+            android:name="com.mc.cropImage.Test.MainActivity"
             >
              <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

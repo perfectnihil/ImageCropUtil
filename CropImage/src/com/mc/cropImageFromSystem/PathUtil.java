@@ -1,4 +1,4 @@
-package com.mc.cropImage;
+package com.mc.cropImageFromSystem;
 
 import android.content.ContentUris;
 import android.content.Context;
